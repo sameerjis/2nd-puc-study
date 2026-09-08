@@ -19,6 +19,7 @@ Karnataka 2nd PUC (Class XII) study resources — official textbooks, chapter no
 | Chapter | Topic | Notes | Audio |
 |---|---|---|---|
 | 1 | Electric Charges and Fields | [script](physics/notes/ch01-electric-charges-and-fields.md) | [audio](physics/audio/ch01-electric-charges-and-fields.ogg) |
+| 2 | Electrostatic Potential and Capacitance | [script](physics/notes/ch02-electrostatic-potential-and-capacitance.md) | [audio](physics/audio/ch02-electrostatic-potential-and-capacitance.ogg) |
 
 ## Sources
 
